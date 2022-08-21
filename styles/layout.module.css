@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3vh;
+    padding-top:5vh;
+    margin-top: 5vh;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.footer a {
+    padding: 1.5vh;
+    margin: 2vh;
+}
+
