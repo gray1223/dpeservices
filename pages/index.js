@@ -48,7 +48,7 @@ export default function Home() {
 
           <a href="" className={styles.card}>
             <h2>Pricing &rarr;</h2>
-            <p>Let's get started working to simplify your life.</p>
+            <p>Lets get started working to simplify your life.</p>
           </a>
 
         </div>

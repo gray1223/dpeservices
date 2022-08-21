@@ -21,7 +21,7 @@ export default function Calendar() {
           <p>Custom calendar solution for scheduling with applicants.</p>
           <h4>Features:</h4>
           <ul>
-            <li >No more "I'll get back to you...'s</li>
+            <li >No more I will get back to you...s</li>
             <li>Automatically schedule and sort applicants</li>
             <li>Automatically collect deposits</li>
             <li>Enforce 24-72 hour cancellation policies</li>
