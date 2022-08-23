@@ -10,7 +10,7 @@ export default function Layout({ children }) {
 
 
       <footer className={styles.footer}>
-          <h4>DPEasy, All Rights Reserved ©2022 </h4>
+          <h4>DPE Manager, All Rights Reserved ©2022 </h4>
           <div>
             <div>
                 <a href="tel:8578297049">Call Us</a>

@@ -15,3 +15,21 @@ a {
   box-sizing: border-box;
 }
 
+@media screen and (min-width: 100px) and (max-width: 768px) {
+  main.main {
+    padding: 2vh;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+}
+
+
+
+@media (max-width: 600px) {
+  .grid {
+    width: 100%;
+    flex-direction: column;
+  }
+}

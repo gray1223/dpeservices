@@ -20,7 +20,7 @@ export default function Home() {
 
       
         <h1 className={styles.title}>
-          DPEasy
+          DPE Manager
         </h1>
         <h3 className={styles.code}>The <em>headache-free</em> DPE scheduling and aquisition platform!</h3>
 

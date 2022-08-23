@@ -86,7 +86,8 @@
   color:#fafafa;
   background-color:rgb(24, 24, 24);
   padding:3vh;
-  
+  justify-content: center;
+  align-items: center;
 }
 
 .card {
